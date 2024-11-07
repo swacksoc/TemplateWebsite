@@ -13,16 +13,37 @@
     80%{color : blue}
     100%{color: purple}
 }
+
 body{
     background-image: url("skyscrapers.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+    
 
 }
+.normalLookingLink{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    font-weight: bold;
+}
+.list{
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type: circle;
+    
+
+}
+.list:hover{
+    font-size: 2em;
+    animation-name: rainbowFlashing;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
 .titleText{
     font-weight: bold;
-    font-size:30px;
+    font-size:2em;
     font-family: "courier";
     animation-name: rainbowFlashing;
     animation-duration: 2s;
