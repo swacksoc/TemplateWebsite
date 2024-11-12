@@ -1,10 +1,4 @@
-.center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 
-}
 @keyframes rainbowFlashing {
     0%{color: red}
     20%{color: orange}
@@ -15,10 +9,14 @@
 }
 
 body{
-    background-image: url("skyscrapers.jpg");
+    background-color: orange;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+    text-align: center;
+
+    color: black;
+    font-size: 1.25rem;
     
 
 }
@@ -37,6 +35,7 @@ body{
 .list{
     font-family: 'Courier New', Courier, monospace;
     list-style-type: circle;
+
     
 
 }
@@ -63,7 +62,6 @@ body{
     padding: 10px;
     margin: 10px;
     text-align: center;
-    display: block;
     margin-left: auto;
     margin-right: auto;
 }
