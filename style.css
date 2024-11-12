@@ -37,13 +37,7 @@ body{
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
-.list{
-    font-family: 'Courier New', Courier, monospace;
-    list-style-type: circle;
 
-    
-
-}
 .list:hover{
     font-size: 2em;
     animation-name: rainbowFlashing;
