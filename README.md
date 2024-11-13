@@ -13,4 +13,6 @@ Instructions for hosting your website with github.io
 
 5.Find the link to your website to your website by looking at the top of the page
 
-6.Enjoy your website 
+6.Enjoy your website the link should appear here
+![image](https://github.com/user-attachments/assets/ed5c68e2-b154-4aaf-8763-c6f8d5628d9e)
+
