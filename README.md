@@ -5,7 +5,7 @@ Instructions for hosting your website with github.io
 1.Go into the settings of your github repositary.
 
 2.Find the Tab labelled pages and you should see something like this
-![image](https://github.com/user-attachments/assets/d5b13610-4ae6-480f-9de1-28beee9892fe)
+![image](https://github.com/user-attachments/assets/33966f02-8b9e-462c-be07-aee3aa16749b)
 
 3.Click on branch and select main
 
