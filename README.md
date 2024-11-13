@@ -9,6 +9,8 @@ Instructions for hosting your website with github.io
 
 3.Click on branch and select main
 
-4.Find the link to your website to your website by looking at the top of the page
+4.Press save
 
-5.Enjoy your website 
+5.Find the link to your website to your website by looking at the top of the page
+
+6.Enjoy your website 
